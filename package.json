@@ -10,6 +10,7 @@
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-hook-form": "^6.15.1",
+    "react-hook-form-resolvers": "^0.0.1",
     "react-scripts": "4.0.2",
     "web-vitals": "^1.0.1",
     "yup": "^0.32.9"
